@@ -78,10 +78,10 @@ void draw()
   }
 
 }
-'''
+```
 
 ## Arduino code
-'''
+```C++
 
 #include <Adafruit_NeoPixel.h>
 #define LED_PIN    6
