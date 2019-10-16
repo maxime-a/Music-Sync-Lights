@@ -4,7 +4,7 @@ Processing program running on the PC analyze music with beat detection algorithm
 to an arduino nano. The arduino will command the adressable led strip.
 
 ## Processing code
-'''
+'''Java
 import processing.serial.*;
 
 Serial arduino;
